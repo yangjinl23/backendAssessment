@@ -1,0 +1,111 @@
+{
+  "id": "aurora-h1",
+  "name": "Aurora H1 Wireless Headphones",
+  "brand": "Aurora Audio",
+  "currency": "USD",
+  "rating": 4.7,
+  "reviews": 1284,
+  "description": "Studio-grade 40mm drivers, hybrid active noise cancellation, and up to 36 hours of playback on a single charge. Memory-foam earcups with a featherweight aluminium frame for all-day comfort. Bluetooth 5.3 with multi-point pairing.",
+  "highlights": [
+    "Hybrid Active Noise Cancellation",
+    "Up to 36h battery life (24h with ANC)",
+    "Bluetooth 5.3 \u2022 Multi-point pairing",
+    "USB-C fast charge: 10 min = 5h playback"
+  ],
+  "variantOptions": {
+    "color": ["Black", "White", "Blue"],
+    "size": ["Standard", "Pro"]
+  },
+  "skus": [
+    {
+      "id": "sku-black-standard",
+      "color": "Black",
+      "size": "Standard",
+      "price": 199.0,
+      "stock": 12,
+      "image": "/images/headphones-black.svg",
+      "description": "The Black / Standard finish is our most discreet option: a soft-touch matte shell that hides fingerprints on the commute. The Standard headband keeps weight low while the 40mm drivers deliver the same hybrid ANC and transparency mode as every H1.",
+      "highlights": [
+        "Soft-touch matte black housing",
+        "Lightweight Standard headband",
+        "Hybrid ANC + ambient passthrough",
+        "Up to 36h playback (ANC off)"
+      ]
+    },
+    {
+      "id": "sku-black-pro",
+      "color": "Black",
+      "size": "Pro",
+      "price": 259.0,
+      "stock": 4,
+      "image": "/images/headphones-black.svg",
+      "description": "Black / Pro adds a wider suspension strap and deeper memory-foam ear cushions for longer sessions. The Pro hinge is steel-reinforced—same stealth look as Standard, but tuned for creators who wear headphones all day.",
+      "highlights": [
+        "Extended memory-foam ear cushions",
+        "Steel-reinforced folding hinge",
+        "Wider suspension strap for comfort",
+        "Same hybrid ANC as Standard"
+      ]
+    },
+    {
+      "id": "sku-white-standard",
+      "color": "White",
+      "size": "Standard",
+      "price": 199.0,
+      "stock": 8,
+      "image": "/images/headphones-white.svg",
+      "description": "White / Standard pairs a clean porcelain shell with the slimmer Standard frame—great for minimal desks and bright studios. The light finish uses an anti-yellowing UV coating so it stays crisp over time.",
+      "highlights": [
+        "Porcelain white with UV-stable coating",
+        "Standard lightweight frame",
+        "Bluetooth 5.3 multi-point",
+        "USB-C fast charge"
+      ]
+    },
+    {
+      "id": "sku-white-pro",
+      "color": "White",
+      "size": "Pro",
+      "price": 259.0,
+      "stock": 0,
+      "image": "/images/headphones-white.svg",
+      "description": "White / Pro combines the bright studio aesthetic with Pro comfort: thicker ear cushions and a wider headband spread pressure evenly. When back in stock, this is the variant our mastering engineers pick most often.",
+      "highlights": [
+        "Pro comfort package (strap + cushions)",
+        "Bright finish for studio visibility",
+        "Reinforced hinge for travel",
+        "Hybrid ANC tuned for long sessions"
+      ]
+    },
+    {
+      "id": "sku-blue-standard",
+      "color": "Blue",
+      "size": "Standard",
+      "price": 209.0,
+      "stock": 6,
+      "image": "/images/headphones-blue.svg",
+      "description": "Blue / Standard is the playful option: a saturated cobalt housing with the same compact Standard geometry. Slightly higher price reflects the limited colour run and extra anodisation step on the aluminium yokes.",
+      "highlights": [
+        "Limited cobalt colourway",
+        "Standard slim profile",
+        "Anodised aluminium yokes",
+        "Same driver + ANC stack as Black"
+      ]
+    },
+    {
+      "id": "sku-blue-pro",
+      "color": "Blue",
+      "size": "Pro",
+      "price": 269.0,
+      "stock": 2,
+      "image": "/images/headphones-blue.svg",
+      "description": "Blue / Pro is the flagship look: bold cobalt with the full Pro comfort kit—deeper pads, wider strap, and reinforced hinge. If you want the colour to stand out and the longest-wear comfort, this is the SKU.",
+      "highlights": [
+        "Cobalt finish + Pro comfort kit",
+        "Steel-reinforced hinge",
+        "Deeper ear cushions for isolation",
+        "Best match for all-day wear + travel"
+      ]
+    }
+  ]
+}
